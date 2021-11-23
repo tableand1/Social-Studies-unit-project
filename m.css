@@ -1,0 +1,91 @@
+nav{
+    display: block;
+    padding: 1%;
+    margin-bottom: 5%;
+
+}
+nav a{
+    width:max-content;
+    background-color: lightgreen;
+    font-size: 20px;
+    margin:0.3%;
+    padding:0.5%;
+    border-radius: 10%;
+    border: black solid 2px;
+    transition: 1s;
+    display:inline-flex;
+    font-weight: 700;
+}
+nav a:hover{
+    transform:(10deg,10deg) translate(3px,-10px);
+    box-shadow: black 5px 5px 5px 5px;
+    font-size: 30px; 
+}
+p{
+    float: right;
+    margin-bottom: 5px;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: burlywood;
+}
+h2{
+    background-color: darkgoldenrod;
+    border-radius:10%;
+    border: black solid 2px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: darkgoldenrod;
+    border-radius:10%;
+    border: black solid 2px;
+    display: block;
+    display: block;
+    padding: 1%;
+    margin-bottom: 5%;
+}
+.time{
+    font-size: 20px;
+    border-radius:10%;
+    border: black solid 2px;
+}
+pre{
+    text-align: center;
+    font-size: 25px;
+}
+#Slideshowdiv{
+    width: fit-content;
+    margin:auto;
+}
+.slides{
+    width:700px;
+    height:400px;  
+}
+.cite{
+  text-align: center;
+  font-size: 1vw;
+}
+body{
+    text-align: center;
+}
+
+.chapter2pic{
+    width: 500px;
+    height:300px;
+}
+.cite :hover{
+    box-shadow: 5px 5px 5px 5px ;
+}
+.click{
+    text-align: center;
+    font-size: 10px;
+}
+.pic{
+    width: 800px;
+    height: 600px;
+}
+.journal{
+    text-align: center;
+}
